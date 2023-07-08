@@ -1,0 +1,17 @@
+{
+  "accentColor": "",
+  "cssTheme": "AnuPpuccin",
+  "enabledCssSnippets": [
+    "AnuExtendTheme",
+    "表格优化",
+    "预览模式优化-空白行-行间距",
+    "网格背景",
+    "yaozhuwa@CSS",
+    "extended-colorschemes",
+    "custom-rainbow-colors",
+    "floating-search-bar",
+    "floating-status-bar",
+    "minimal-cards"
+  ],
+  "theme": "moonstone"
+}

@@ -1,0 +1,11 @@
+{
+  "attachmentFolderPath": "Boxes/Attachment",
+  "trashOption": "local",
+  "alwaysUpdateLinks": true,
+  "newFileLocation": "folder",
+  "newFileFolderPath": "Draft",
+  "showUnsupportedFiles": true,
+  "strictLineBreaks": true,
+  "showFrontmatter": true,
+  "showLineNumber": true
+}
